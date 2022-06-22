@@ -1,0 +1,15 @@
+C:\work_project\IT\C#\repeat_lection_22_06_22\example002_hello world\bin\Debug\net6.0\example002_hello world.exe
+C:\work_project\IT\C#\repeat_lection_22_06_22\example002_hello world\bin\Debug\net6.0\example002_hello world.deps.json
+C:\work_project\IT\C#\repeat_lection_22_06_22\example002_hello world\bin\Debug\net6.0\example002_hello world.runtimeconfig.json
+C:\work_project\IT\C#\repeat_lection_22_06_22\example002_hello world\bin\Debug\net6.0\example002_hello world.dll
+C:\work_project\IT\C#\repeat_lection_22_06_22\example002_hello world\bin\Debug\net6.0\example002_hello world.pdb
+C:\work_project\IT\C#\repeat_lection_22_06_22\example002_hello world\obj\Debug\net6.0\example002_hello world.csproj.AssemblyReference.cache
+C:\work_project\IT\C#\repeat_lection_22_06_22\example002_hello world\obj\Debug\net6.0\example002_hello world.GeneratedMSBuildEditorConfig.editorconfig
+C:\work_project\IT\C#\repeat_lection_22_06_22\example002_hello world\obj\Debug\net6.0\example002_hello world.AssemblyInfoInputs.cache
+C:\work_project\IT\C#\repeat_lection_22_06_22\example002_hello world\obj\Debug\net6.0\example002_hello world.AssemblyInfo.cs
+C:\work_project\IT\C#\repeat_lection_22_06_22\example002_hello world\obj\Debug\net6.0\example002_hello world.csproj.CoreCompileInputs.cache
+C:\work_project\IT\C#\repeat_lection_22_06_22\example002_hello world\obj\Debug\net6.0\example002_hello world.dll
+C:\work_project\IT\C#\repeat_lection_22_06_22\example002_hello world\obj\Debug\net6.0\refint\example002_hello world.dll
+C:\work_project\IT\C#\repeat_lection_22_06_22\example002_hello world\obj\Debug\net6.0\example002_hello world.pdb
+C:\work_project\IT\C#\repeat_lection_22_06_22\example002_hello world\obj\Debug\net6.0\example002_hello world.genruntimeconfig.cache
+C:\work_project\IT\C#\repeat_lection_22_06_22\example002_hello world\obj\Debug\net6.0\ref\example002_hello world.dll
