@@ -1,0 +1,17 @@
+﻿int numberA = new Random().Next(1, 145);
+int numberB = new Random().Next(1, 145);
+int numberC = new Random().Next(1, 145);
+int numberD = new Random().Next(1, 145);
+int numberE = new Random().Next(1, 145);
+Console.WriteLine(numberA);
+Console.WriteLine(numberB);
+Console.WriteLine(numberC);
+Console.WriteLine(numberD);
+Console.WriteLine(numberE);
+int max = numberA;
+if (numberA > max) max = numberA;
+if (numberB > max) max = numberB;
+if (numberC > max) max = numberC;
+if (numberD > max) max = numberD;
+if (numberE > max) max = numberE;
+Console.WriteLine(max);

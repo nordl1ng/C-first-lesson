@@ -1,0 +1,15 @@
+C:\work_project\IT\C#\repeat_lection_22_06_22\exampe007_base_max\bin\Debug\net6.0\exampe007_base_max.exe
+C:\work_project\IT\C#\repeat_lection_22_06_22\exampe007_base_max\bin\Debug\net6.0\exampe007_base_max.deps.json
+C:\work_project\IT\C#\repeat_lection_22_06_22\exampe007_base_max\bin\Debug\net6.0\exampe007_base_max.runtimeconfig.json
+C:\work_project\IT\C#\repeat_lection_22_06_22\exampe007_base_max\bin\Debug\net6.0\exampe007_base_max.dll
+C:\work_project\IT\C#\repeat_lection_22_06_22\exampe007_base_max\bin\Debug\net6.0\exampe007_base_max.pdb
+C:\work_project\IT\C#\repeat_lection_22_06_22\exampe007_base_max\obj\Debug\net6.0\exampe007_base_max.csproj.AssemblyReference.cache
+C:\work_project\IT\C#\repeat_lection_22_06_22\exampe007_base_max\obj\Debug\net6.0\exampe007_base_max.GeneratedMSBuildEditorConfig.editorconfig
+C:\work_project\IT\C#\repeat_lection_22_06_22\exampe007_base_max\obj\Debug\net6.0\exampe007_base_max.AssemblyInfoInputs.cache
+C:\work_project\IT\C#\repeat_lection_22_06_22\exampe007_base_max\obj\Debug\net6.0\exampe007_base_max.AssemblyInfo.cs
+C:\work_project\IT\C#\repeat_lection_22_06_22\exampe007_base_max\obj\Debug\net6.0\exampe007_base_max.csproj.CoreCompileInputs.cache
+C:\work_project\IT\C#\repeat_lection_22_06_22\exampe007_base_max\obj\Debug\net6.0\exampe007_base_max.dll
+C:\work_project\IT\C#\repeat_lection_22_06_22\exampe007_base_max\obj\Debug\net6.0\refint\exampe007_base_max.dll
+C:\work_project\IT\C#\repeat_lection_22_06_22\exampe007_base_max\obj\Debug\net6.0\exampe007_base_max.pdb
+C:\work_project\IT\C#\repeat_lection_22_06_22\exampe007_base_max\obj\Debug\net6.0\exampe007_base_max.genruntimeconfig.cache
+C:\work_project\IT\C#\repeat_lection_22_06_22\exampe007_base_max\obj\Debug\net6.0\ref\exampe007_base_max.dll
