@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\work_project\\IT\\C#\\repeat_lection_22_06_22\\repeat_lection_22_06_22.csproj",
-      "projectName": "repeat_lection_22_06_22",
-      "projectPath": "C:\\work_project\\IT\\C#\\repeat_lection_22_06_22\\repeat_lection_22_06_22.csproj",
+      "projectUniqueName": "C:\\work_project\\IT\\C#\\repeat_lection_22_06_22\\example001_hello console\\example001_hello console.csproj",
+      "projectName": "example001_hello console",
+      "projectPath": "C:\\work_project\\IT\\C#\\repeat_lection_22_06_22\\example001_hello console\\example001_hello console.csproj",
       "packagesPath": "C:\\Users\\zagar\\.nuget\\packages\\",
-      "outputPath": "C:\\work_project\\IT\\C#\\repeat_lection_22_06_22\\obj\\",
+      "outputPath": "C:\\work_project\\IT\\C#\\repeat_lection_22_06_22\\example001_hello console\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zagar\\AppData\\Roaming\\NuGet\\NuGet.Config"
