@@ -1,0 +1,15 @@
+C:\work_project\IT\C#\repeat_lection_22_06_22\example008_while\obj\Debug\net6.0\example008_while.csproj.AssemblyReference.cache
+C:\work_project\IT\C#\repeat_lection_22_06_22\example008_while\obj\Debug\net6.0\example008_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\work_project\IT\C#\repeat_lection_22_06_22\example008_while\obj\Debug\net6.0\example008_while.AssemblyInfoInputs.cache
+C:\work_project\IT\C#\repeat_lection_22_06_22\example008_while\obj\Debug\net6.0\example008_while.AssemblyInfo.cs
+C:\work_project\IT\C#\repeat_lection_22_06_22\example008_while\obj\Debug\net6.0\example008_while.csproj.CoreCompileInputs.cache
+C:\work_project\IT\C#\repeat_lection_22_06_22\example008_while\bin\Debug\net6.0\example008_while.exe
+C:\work_project\IT\C#\repeat_lection_22_06_22\example008_while\bin\Debug\net6.0\example008_while.deps.json
+C:\work_project\IT\C#\repeat_lection_22_06_22\example008_while\bin\Debug\net6.0\example008_while.runtimeconfig.json
+C:\work_project\IT\C#\repeat_lection_22_06_22\example008_while\bin\Debug\net6.0\example008_while.dll
+C:\work_project\IT\C#\repeat_lection_22_06_22\example008_while\bin\Debug\net6.0\example008_while.pdb
+C:\work_project\IT\C#\repeat_lection_22_06_22\example008_while\obj\Debug\net6.0\example008_while.dll
+C:\work_project\IT\C#\repeat_lection_22_06_22\example008_while\obj\Debug\net6.0\refint\example008_while.dll
+C:\work_project\IT\C#\repeat_lection_22_06_22\example008_while\obj\Debug\net6.0\example008_while.pdb
+C:\work_project\IT\C#\repeat_lection_22_06_22\example008_while\obj\Debug\net6.0\example008_while.genruntimeconfig.cache
+C:\work_project\IT\C#\repeat_lection_22_06_22\example008_while\obj\Debug\net6.0\ref\example008_while.dll
